@@ -1,5 +1,6 @@
 #include "tst.h"
 
+
 /** max word length to store in ternary search tree, stack size */
 #define WRDMAX 128
 #define STKMAX (WRDMAX * 2)
